@@ -52,6 +52,12 @@
 
 <img align="left" alt="vishnuSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnusharma511&show_icons=true&hide_border=true" />
 
+```Quotes
+   Quotes:
+       - You can mass-produce hardware; you cannot mass-produce software; you cannot mass-produce the human mind.
+```
+
+
 [website]: https://vishnusharma.com
 [twitter]: https://twitter.com/VishnuSharma108
 [instagram]: https://instagram.com/cyberains511
