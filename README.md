@@ -47,11 +47,17 @@
 
 <br />
 
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusharma511&show_icons=true&hide_border=true" />
+
+<br />
 
 ---
 
-<img align="left" alt="vishnuSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnusharma511&show_icons=true&hide_border=true" />
-
+<a href="https://github.com/vishnusharma511">
+   <img align="left" alt="vishnuSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnusharma511&show_icons=true&hide_border=true" />
+</a>
 
 <br />
 
@@ -65,7 +71,7 @@
 ```
 
 
-[website]: https://vishnusharma.com
+[website]: #
 [twitter]: https://twitter.com/VishnuSharma108
 [instagram]: https://instagram.com/cyberains511
 [linkedin]: https://linkedin.com/in/vishnu-sharma-cyberrains
