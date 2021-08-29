@@ -1,9 +1,9 @@
 
 ### Hi there, I'm Vishnu👋
 
-## I'm a [ MEAN/MERN ] Developer!
+## I'm a Full Stack Developer!
 - 🎯 I’m currently working on a [Web-Development][website]!
-- 🌱 I’m currently learning NodeJS ...
+- 🌱 I’m currently learning Flutter ...
 - 👯 I’m looking to collaborate with other content creators
 - 🏆 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I ❤️ Tea & coffee☕ & spending quality time with friends and family👪.
@@ -27,6 +27,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
