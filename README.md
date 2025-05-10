@@ -1,12 +1,13 @@
 
-### Hi there, I'm Vishnu👋
+### Hi there, I'm Vishnu Sharma👋
 
-## I'm a Full Stack Developer!
-- 🎯 I’m currently working on a [Web-Development]!
-- 🌱 I’m currently enhancing Node.js with MongoDB.
-- 👯 I’m looking to collaborate with other content creators
-- 🏆 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I ❤️ Tea & coffee☕ & spending quality time with friends and family👪.
+## 🚀 Full Stack Developer | Backend Specialist
+- 🔧 Experienced with **Laravel**, **Node.js**, **FastAPI**, **MongoDB**, **MySQL**, **Redis**, and **RabbitMQ**
+- 🌐 Building scalable web apps and APIs with production-ready architecture
+- 🧠 Currently enhancing my skills in **Node.js with MongoDB** and **microservices**
+- 🤝 Open to collaboration on **tech blogs**, **open-source projects**, and **startup ideas**
+- 🎯 **2025 Goal**: Contribute to impactful Open Source projects and grow in system design
+- ☕ Fun Fact: I ❤️ both tea & coffee, and I cherish time with family and friends 👨‍👩‍👧‍👦
 
 
 
@@ -14,10 +15,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:vishnusharma180999@gmail.com
+)
+
 
 <br />
 <br />
@@ -38,8 +40,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+
 
 <br />
 
@@ -55,11 +59,14 @@
    <img align="left" alt="vishnuSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnusharma511&show_icons=true&hide_border=true" />
 </a>
 
-<br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnusharma511&theme=tokyonight&hide_border=true" />
 
 ---
 
+
+![](https://komarev.com/ghpvc/?username=vishnusharma511&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+
+
 [website]: #
 [twitter]: https://twitter.com/VishnuSharma108
-[instagram]: https://instagram.com/cyberains511
 [linkedin]: https://linkedin.com/in/vishnu-sharma-cyberrains
